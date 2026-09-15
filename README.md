@@ -10,6 +10,10 @@ Works with **Ollama** out of the box (free, private, no API key) — and switche
 [![CI](https://github.com/linxi-667/aicli/actions/workflows/ci.yml/badge.svg)](https://github.com/linxi-667/aicli/actions/workflows/ci.yml)
 [![License](https://img.shields.io/github/license/linxi-667/aicli.svg)](LICENSE)
 
+<br/>
+
+<img src="demo.gif" alt="aicli demo — streaming chat with local Ollama" width="720"/>
+
 </div>
 
 ---
